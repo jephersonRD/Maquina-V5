@@ -44,9 +44,17 @@ drive.mount('/content/drive')
 
 ---
 
-## 💻 Especificaciones de la Máquina Virtual
-
 <div align="center">
+
+## 📺 TUTORIAL
+
+[![Tutorial en YouTube](https://img.youtube.com/vi/zkxQ1IQ--7M/maxresdefault.jpg)](https://youtu.be/zkxQ1IQ--7M?si=avkAjTEgBRfEpBRc)
+
+**[▶️ Ver Tutorial Completo en YouTube](https://youtu.be/zkxQ1IQ--7M?si=avkAjTEgBRfEpBRc)**
+
+</div>
+
+## 💻 Especificaciones de la Máquina Virtual
 
 | 🎮 **GPU** | ⚡ **CPU** | 💾 **RAM** | 🖥️ **Sistema Operativo** |
 |:----------:|:----------:|:----------:|:------------------------:|
