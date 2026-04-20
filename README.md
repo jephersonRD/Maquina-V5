@@ -33,6 +33,10 @@ drive.mount('/content/drive')
 !./ColabSteam
 ```
 
+### ✅ Compatible con Steam y Navegador
+
+<img src="assets/2.png" width="100%">
+
 ---
 
 ## 📋 Requisitos
@@ -61,6 +65,53 @@ drive.mount('/content/drive')
 | **NVIDIA Tesla T4** | **Intel Xeon**<br>2 Cores @ 2.0GHz | **12.67 GB** | **Ubuntu 22.04.4 LTS** |
 
 </div>
+
+### 🎮 Juegos que corre esta PC
+
+# - Doom Eternal
+<img src="assets/4.jpeg" width="100%">
+
+# - Metal Gear Solid V: The Phantom Pain
+<img src="assets/5.png" width="100%">
+
+# - Titanfall 2
+<img src="assets/6.jpeg" width="100%">
+
+# - Wolfenstein II: The New Colossus
+<img src="assets/7.jpeg" width="100%">
+
+# -Sniper Elite 4
+<img src="assets/8.jpeg" width="100%">
+
+# - Mad Max
+<img src="assets/10.jpeg" width="100%">
+
+# - Batman: Arkham Knight
+<img src="assets/9.jpeg" width="100%">
+
+# - Rise of the Tomb Raider
+<img src="assets/11.jpeg" width="100%">
+
+# - Grand Theft Auto V
+<img src="assets/3.png" width="100%">
+
+# - Alien: Isolation
+<img src="assets/12.jpeg" width="100%">
+
+# - Resident Evil 2 (Remake)
+<img src="assets/13.jpeg" width="100%">
+
+# - Devil May Cry 5
+<img src="assets/14.jpeg" width="100%">
+
+# - BioShock Infinite
+<img src="assets/15.jpeg" width="100%">
+
+# - Hades
+<img src="assets/16.jpeg" width="100%">
+
+# - Forza Horizon 4
+<img src="assets/17.jpeg" width="100%">
 
 ---
 
